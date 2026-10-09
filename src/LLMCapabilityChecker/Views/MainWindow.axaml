@@ -57,12 +57,13 @@
                 </Button.Styles>
             </Button>
 
-            <!-- Community button -->
+            <!-- Community button: hidden while the feature runs on sample data -->
             <Button Background="Transparent"
                     BorderThickness="0"
                     Padding="12,8"
                     Command="{Binding NavigateToCommunityCommand}"
-                    Cursor="Hand">
+                    Cursor="Hand"
+                    IsVisible="False">
                 <StackPanel Orientation="Horizontal" Spacing="8">
                     <TextBlock Text="👥"
                                FontSize="20"
