@@ -1,5 +1,11 @@
 # 🚀 LLM Capability Checker
 
+> **⚠️ Archived: this project is no longer maintained.**
+> - No new features, bug fixes or security fixes will be released.
+> - The model database is out of date (its newest entries date from 2025), and some fit results are wrong. Known examples: Windows GPUs above 4 GB VRAM are under-counted, and Hugging Face models with unrecognised names are sized as 7B.
+> - The Community tab has been hidden. Its data was sample data, not real user feedback.
+> - For current tools, see [llmfit](https://github.com/AlexsJones/llmfit) or [LM Studio](https://lmstudio.ai).
+
 <div align="center">
 
 **Can Your PC Run It?** The ultimate tool to assess your hardware's ability to run, train, and fine-tune Large Language Models locally.

@@ -30,21 +30,14 @@ We take the security of LLM Capability Checker seriously. Even though this is a 
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 1.0.x   | ✅ Yes             |
+| 1.0.x   | ❌ No (archived)   |
 | < 1.0   | ❌ Not released    |
 
-We will support the latest major version and provide security updates as needed.
+This project is archived. No versions are supported and no security updates will be released.
 
 ## 🚨 Reporting a Vulnerability
 
-**Please do NOT report security vulnerabilities through public GitHub issues.**
-
-If you discover a security vulnerability, please report it responsibly:
-
-### How to Report
-
-1. **Email**: [Add security contact email when available]
-2. **Private Vulnerability Report**: Use GitHub's [Private Vulnerability Reporting](https://github.com/yourusername/llm-capability-checker/security/advisories/new) (preferred)
+**This project is archived. Vulnerability reports are not monitored and no fixes will be released.** Do not use this app for security-sensitive work.
 
 ### What to Include
 
@@ -187,9 +180,7 @@ We will not pursue legal action against security researchers who:
 
 ## 📞 Contact
 
-- **Security Issues**: [Security email to be added] or [Private Advisory](https://github.com/yourusername/llm-capability-checker/security/advisories/new)
-- **General Questions**: [GitHub Discussions](https://github.com/yourusername/llm-capability-checker/discussions)
-- **Non-Security Bugs**: [GitHub Issues](https://github.com/yourusername/llm-capability-checker/issues)
+This project is archived. There is no active contact or support channel.
 
 ## 🙏 Thank You
 
